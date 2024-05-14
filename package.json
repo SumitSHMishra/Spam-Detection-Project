@@ -1,0 +1,19 @@
+{
+  "name": "sumitbackend",
+  "version": "1.0.0",
+  "description": "first backend made by me with full dedication",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "first"
+  ],
+  "author": "Sumit Shekhar Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
